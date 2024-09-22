@@ -6,7 +6,7 @@ My name is Samuel, I'm a full stack developer in training, I'm from Brasília, F
 - 👩‍💻 I'm interested in technology and how it can help us evolve
 - :abcd: Intermediate English
 - :books: At the moment I'm just studying, looking for my first job in the field.
-
+<hr>
 
 ### You can also find me here 👇
 
