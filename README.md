@@ -39,8 +39,8 @@ My name is Samuel, I'm a full stack developer in training, I'm from Brasília, F
 <hr>
 <div>
  if (recruiter) {<br>
-  Please contact me through my contact details listed above and in my profile<br>
+   Please contact me through my contact details listed above and in my profile<br>
 } <br> else {<br>
-  Shall we develop something together? get in touch :metal:<br>
+   Shall we develop something together? get in touch :metal:<br>
 }
 </div>
