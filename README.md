@@ -1,6 +1,6 @@
 ## Olá :space_invader:
 
-Meu nome é Samuel, sou dev full stack em treinamento, moro em Brasília/Distrito Federal. Eu amo programar e desenvolver, o que mais me fascina na programação é o fato de que há inumeras formas de resolver um problema ou criar algo novo.
+Meu nome é Samuel, sou um desenvolvedor full stack em treinamento, moro em Brasília/Distrito Federal. Eu amo programar e desenvolver, o que mais me fascina na programação é o fato de que há inumeras formas de resolver um problema ou criar algo novo.
 
 - :seedling: Atualmente estou estudando TypeScript
 - 👩‍💻 Sou interessado em tecnologia e como ela pode nos ajudar a evoluir
