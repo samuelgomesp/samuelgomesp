@@ -1,14 +1,14 @@
-## Hi there :space_invader:
+## Olá :space_invader:
 
-My name is Samuel, I'm a full stack developer in training, I'm from Brasília, Federal District. I love programming and developing programs, what fascinates me about programming is the fact that there are countless possibilities to solve a problem or create something new.
+Meu nome é Samuel, sou dev full stack em treinamento, moro em Brasília/Distrito Federal. Eu amo programar e desenvolver, o que mais me fascina na programação é o fato de que há inumeras formas de resolver um problema ou criar algo novo.
 
-- :seedling: I'm currently studying TypeScript
-- 👩‍💻 I'm interested in technology and how it can help us evolve
-- :abcd: Intermediate English
-- :books: At the moment I'm just studying, looking for my first job in the field.
+- :seedling: Atualmente estou estudando TypeScript
+- 👩‍💻 Sou interessado em tecnologia e como ela pode nos ajudar a evoluir
+- :abcd: Inglês intermediário
+- :books: no momento apenas estudo, estou em busca do meu primeiro emprego na área.
 <hr>
 
-### You can also find me here 👇
+### Você também pode me encontrar aqui 👇
 
 <div>
 <a href="https://instagram.com/goomes_pereira" target="_blank">
@@ -36,11 +36,3 @@ My name is Samuel, I'm a full stack developer in training, I'm from Brasília, F
   <img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
  </div>
 <br><br>
-<hr>
-<div>
- if (recruiter) {<br>
-   Please contact me through my contact details listed above and in my profile<br>
-} <br> else {<br>
-   Shall we develop something together? get in touch :metal:<br>
-}
-</div>
