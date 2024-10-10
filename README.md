@@ -5,7 +5,7 @@ Meu nome é Samuel, sou um desenvolvedor full stack em treinamento, moro em Bras
 - :seedling: Atualmente estou estudando TypeScript
 - 👩‍💻 Sou interessado em tecnologia e como ela pode nos ajudar a evoluir
 - :abcd: Inglês intermediário
-- :books: no momento apenas estudo, estou em busca do meu primeiro emprego na área.
+- :books: No momento apenas estudo, estou em busca do meu primeiro emprego na área.
 <hr>
 
 ### Você também pode me encontrar aqui 👇
