@@ -38,5 +38,3 @@ Meu nome é Samuel, sou um desenvolvedor full stack em treinamento, moro em Bras
   <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
  </div>
 <br><br>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apisamuelgomespanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
