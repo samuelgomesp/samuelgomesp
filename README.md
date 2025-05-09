@@ -2,7 +2,7 @@
 
 Meu nome é Samuel, sou um desenvolvedor full stack em treinamento, moro em Brasília/Distrito Federal. Eu amo programar e desenvolver, o que mais me fascina na programação é o fato de que há inumeras formas de resolver um problema ou criar algo novo.
 
-- :seedling: Atualmente estou estudando tópicos avançados de programação web com Node.js
+- :seedling: Atualmente estou estudando sobre bancos de dados com PostgreSQL.
 - 👩‍💻 Sou interessado em tecnologia e como ela pode nos ajudar a evoluir
 - :abcd: Inglês intermediário
 - :mag_right: Em busca da minha primeira oportunidade na área.
@@ -38,3 +38,5 @@ Meu nome é Samuel, sou um desenvolvedor full stack em treinamento, moro em Bras
   <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
  </div>
 <br><br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apisamuelgomespanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
