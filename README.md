@@ -2,7 +2,7 @@
 
 Meu nome é Samuel, sou um desenvolvedor full stack em treinamento, moro em Brasília/Distrito Federal. Eu amo programar e desenvolver, o que mais me fascina na programação é o fato de que há inumeras formas de resolver um problema ou criar algo novo.
 
-- :seedling: Atualmente estou estudando sobre bancos de dados com PostgreSQL.
+- :seedling: Atualmente estou estudando sobre integração de sistemas com bancos de dados SQL, Prisma ORM.
 - 👩‍💻 Sou interessado em tecnologia e como ela pode nos ajudar a evoluir
 - :abcd: Inglês intermediário
 - :mag_right: Em busca da minha primeira oportunidade na área.
@@ -36,5 +36,6 @@ Meu nome é Samuel, sou um desenvolvedor full stack em treinamento, moro em Bras
   <img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" alt="Express" src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white">
   <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=for-the-badge"> 
  </div>
 <br><br>
