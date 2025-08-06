@@ -5,8 +5,6 @@ Meu nome é Samuel, sou um desenvolvedor full stack em treinamento, moro em Bras
 - :seedling: Atualmente estou estudando sobre integração de sistemas com bancos de dados SQL, Prisma ORM.
 - 👩‍💻 Sou interessado em tecnologia e como ela pode nos ajudar a evoluir
 - :abcd: Inglês intermediário
-- :mag_right: Em busca da minha primeira oportunidade na área.
-<hr>
 
 ### Você também pode me encontrar aqui 👇
 
